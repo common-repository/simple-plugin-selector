@@ -1,0 +1,58 @@
+/* Simple Plugin Selector */
+/* Topcode Website Services */
+
+.sps_help {
+  max-width: 480px;
+  color: DarkGreen;
+  font-size: 14px;
+  font-style: italic;
+}
+#sps_alert {
+	display: none;
+	color: red;
+  font-size: 14px;
+  font-style: italic;
+}
+
+.settings_page_simple-plugin-selector .sps_table {
+  table-layout: fixed;
+  border-collapse: collapse;
+  margin-bottom: 32px;
+}
+.settings_page_simple-plugin-selector .sps_table tbody tr:nth-child(odd) {
+  background-color: #f8f8f8;
+}
+.settings_page_simple-plugin-selector .sps_table th,
+.settings_page_simple-plugin-selector .sps_table td {
+  padding: 6px 8px;
+}
+.settings_page_simple-plugin-selector th.plugin_name {
+  width: 300px;
+}
+.settings_page_simple-plugin-selector th.plugin_option {
+  width: 80px;
+}
+.settings_page_simple-plugin-selector th.page_id {
+  width: 80px;
+}
+.settings_page_simple-plugin-selector th.page_title {
+  width: 300px;
+}
+
+.sps_page_nr {
+	margin-right: 4px;
+	padding: 6px 12px ;
+	color: #000;
+	font-size: 15px;
+	text-decoration: none;
+	background-color: #fff;
+	border: 1px solid #555;
+	border-radius: 4px;
+}
+.sps_page_nr:hover {
+	background-color: #ddd;
+}
+.sps_page_nr.current {
+	color: #fff;
+	background-color: #555;
+}

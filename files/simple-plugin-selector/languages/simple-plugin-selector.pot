@@ -1,0 +1,243 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Simple Plugin Selector\n"
+"POT-Creation-Date: 2023-07-30 18:16+0100\n"
+"PO-Revision-Date: 2023-07-30 18:14+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: simple-plugin-selector-uploader.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: files/simple-plugin-selector/includes/settings.php:28
+msgid "You do not have permission to access this page."
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:41
+#: files/simple-plugin-selector/includes/settings.php:102
+msgid "Global"
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:42
+#: files/simple-plugin-selector/includes/settings.php:122
+msgid "Plugins"
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:43
+#: files/simple-plugin-selector/includes/settings.php:141
+#: files/simple-plugin-selector/includes/settings.php:149
+msgid "Pages"
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:44
+#: files/simple-plugin-selector/includes/settings.php:160
+#: files/simple-plugin-selector/includes/settings.php:168
+msgid "Posts"
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:45
+#: files/simple-plugin-selector/includes/settings.php:179
+#: files/simple-plugin-selector/includes/settings.php:187
+msgid "Categories"
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:51
+#: files/simple-plugin-selector/includes/settings.php:198
+#: files/simple-plugin-selector/includes/settings.php:206
+msgid "Products"
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:52
+#: files/simple-plugin-selector/includes/settings.php:217
+#: files/simple-plugin-selector/includes/settings.php:225
+msgid "Product Categories"
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:56
+msgid "Simple Plugin Selector Settings"
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:111
+msgid "Maximum items per tab"
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:114
+msgid "Larger numbers may cause settings tabs to load slowly."
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:130
+msgid "Load type"
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:241
+msgid "Plugin filter disabled. All plugins will be loaded as normal."
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:242
+msgid ""
+"Plugin filter enabled. Plugins will be loaded selectively in accordance with "
+"the settings."
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:266
+#: files/simple-plugin-selector/includes/settings.php:333
+msgid "There are no active plugins."
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:275
+msgid "Plugin"
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:276
+msgid "Always"
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:277
+msgid "Never"
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:278
+msgid "Sometimes"
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:317
+msgid "post"
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:320
+msgid "category"
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:323
+msgid "product"
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:326
+msgid "product category"
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:362
+msgid ""
+"No plugins have been set to load \"Sometimes\". These can be set on the "
+"Plugins tab."
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:370
+msgid "Copy settings"
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:374
+#, php-format
+msgid ""
+"Copy the settings for the first %s page to all the remaining %s pages in the "
+"list."
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:375
+msgid "There is no \"undo\", although you can navigate away without saving."
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:376
+msgid "Copy complete. Don't forget to \"Save Changes\"."
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:470
+#: files/simple-plugin-selector/includes/settings.php:477
+#: files/simple-plugin-selector/includes/settings.php:483
+#: files/simple-plugin-selector/includes/settings.php:489
+#: files/simple-plugin-selector/includes/settings.php:495
+#: files/simple-plugin-selector/includes/settings.php:501
+#: files/simple-plugin-selector/includes/settings.php:507
+msgid "The plugin selector works on front-side pages only."
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:471
+msgid "Activate or deactivate the plugin filter on the:"
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:472
+msgid "Dashboard &gt; Plugins &gt; Installed Plugins page."
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:473
+msgid ""
+"If you have cache or optimize plugins, clear them after changing any "
+"settings."
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:478
+msgid ""
+"Set which plugins should load on every page, which should never load and "
+"which should load only on some pages."
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:479
+msgid ""
+"Use the other tabs to set which \"Sometimes\" plugins should load on which "
+"page."
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:484
+msgid "Set which plugins should load on which pages."
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:485
+#: files/simple-plugin-selector/includes/settings.php:491
+#: files/simple-plugin-selector/includes/settings.php:497
+#: files/simple-plugin-selector/includes/settings.php:503
+#: files/simple-plugin-selector/includes/settings.php:509
+msgid "Only plugins set to \"Sometimes\" on the Plugins tab will appear here."
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:490
+msgid "Set which plugins should load on which post pages."
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:496
+msgid "Set which plugins should load on which category pages."
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:502
+msgid "Set which plugins should load on which product pages."
+msgstr ""
+
+#: files/simple-plugin-selector/includes/settings.php:508
+msgid "Set which plugins should load on which product category pages."
+msgstr ""
+
+#: files/simple-plugin-selector/main.php:51
+msgid "Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: files/simple-plugin-selector/main.php:51
+msgid "Simple Plugin Selector"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.topcode.co.uk/developments/simple-plugin-selector/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Improve website performance by loading only the plugins needed for a page."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "lorro"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.topcode.co.uk/"
+msgstr ""
